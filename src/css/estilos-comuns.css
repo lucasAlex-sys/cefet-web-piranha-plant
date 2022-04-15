@@ -1,0 +1,23 @@
+
+h1 {
+    font-family: "Times New Roman", serif;
+    color: limegreen;
+    font-size: 28px;
+    padding-bottom: 25px;
+
+}
+
+h2 {
+    color: limegreen;
+}
+blockquote {
+
+    margin-left: 60px;
+    background-color: white;
+}
+img {     
+    border: 8px solid limegreen;
+    width: 300px;
+    margin: auto;
+    display: block;
+  }
