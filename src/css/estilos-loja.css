@@ -24,7 +24,14 @@ table {
 
   }
   
-  th,td {
+  th {
     border: 1px solid black;
+    background-color: #696969;
+    width: 33%;
+    
+  }
+  td{
+    border: 1px solid black;
+    
   }
   
